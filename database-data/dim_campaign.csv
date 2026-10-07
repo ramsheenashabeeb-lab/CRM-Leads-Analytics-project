@@ -1,0 +1,159 @@
+campaign_id,campaign_name,campaign_term,campaign_content,ad_set_name,ad_name,utm
+1,No Campaign,Not Provided,Not Provided,No Ad Set,No Ad,Not Provided
+2,STRATEGY-AD01,Not Provided,Not Provided,DT-NK-CC01-STRTG,STR-AD04-DT-NK,Not Provided
+3,Jul-01,Not Provided,Not Provided,AD01-JULY-LL-CNVTD,CC-03-JUL-LL,Not Provided
+4,LOCATION-ADS,Not Provided,Not Provided,KOCHI-DT,KOCHI-DT-2,Not Provided
+5,LEAD AD,Not Provided,Not Provided,Tech-NK-DT - II,Degree Urapichavar (Tech-NK-DT-II),Not Provided
+6,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - II,Degree Urappichavar (ALL-NK-DT-II),Not Provided
+7,LEADS-CBO - II,Not Provided,Not Provided,Students Detailed Target-AD Set 5,DT-AD1-II,Not Provided
+8,College Students JUNE,Not Provided,Not Provided,College Custom Data,BCA JABIR SIR - CLG CSTM,Not Provided
+9,LOCATION-ADS,Not Provided,Not Provided,MANJERI-BD,MANJERI-BD-1,Not Provided
+10,STRATEGY-AD01,Not Provided,Not Provided,BD-AK-CC01-STRTG,STR-AD04-BD,Not Provided
+11,STRATEGY-AD01,Not Provided,Not Provided,DT-AK-CC01-STRTG,STR-AD04-DT,Not Provided
+12,Lookalike LEADS,Not Provided,Not Provided,CC-NK-LL - II,Degree Urapichavar (CC-NK-LL-II),Not Provided
+13,STRATEGY-AD01,Not Provided,Not Provided,DT-AK-CC01-STRTG,STR-AD01-DT,Not Provided
+14,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - IV,JABIR SIR AD02 (ALL-NK-DT-IV),Not Provided
+15,LEADS-CBO - II,Not Provided,Not Provided,Students Detailed Target-AD Set 2,DT-AD1-II,Not Provided
+16,STRATEGY-AD01,Not Provided,Not Provided,BD-NK-CC01-STRTG,STR-AD04-BD-NK,Not Provided
+17,STRATEGY-AD01,Not Provided,Not Provided,BD-SK-CC01-STRTG,STR-AD04-BD-SK,Not Provided
+18,Jul-01,Not Provided,Not Provided,AD01-JULY- BD,CC-03-JUL-DT,Not Provided
+19,LEADS-CBO - II,Not Provided,Not Provided,Broad Aud -AD Set 5,AD2-II,Not Provided
+20,STRATEGY-AD01,Not Provided,Not Provided,DT-NK-CC01-STRTG,STR-AD03-DT-NK,Not Provided
+21,LEADS-CBO - II,Not Provided,Not Provided,Converted Data-AD Set 2 - II,C-AD1-II,Not Provided
+22,LEADS-CBO - II,Not Provided,Not Provided,Converted Data-AD Set 1 - II,C-AD3-II,Not Provided
+23,Lookalike LEADS,Not Provided,Not Provided,CC-SK-LL,Degree urapichavar (CC-SK-LL),Not Provided
+24,CC-POSTERS-ADS,Not Provided,Not Provided,CC01-AK-DT,CC02-DT-POSTERS-AK,Not Provided
+25,STRATEGY-AD01,Not Provided,Not Provided,DT-NK-CC01-STRTG,STR-AD01-DT-NK,Not Provided
+26,CC-POSTERS-ADS,Not Provided,Not Provided,CC01-AK-BD,CC02-BD-POSTERS-AK,Not Provided
+27,STRATEGY-AD01,Not Provided,Not Provided,BD-NK-CC01-STRTG,STR-AD01-BD-NK,Not Provided
+28,STRATEGY-AD01,Not Provided,Not Provided,BD-SK-CC01-STRTG,STR-AD01-BD-SK,Not Provided
+29,LEAD AD,Not Provided,Not Provided,Lookalike-KL,Degree Urapichavar (Lookalike-KL),Not Provided
+30,Lookalike LEADS - Copy,Not Provided,Not Provided,All converted lead-AK-LL - II,CONV-AD02  (All Converted lead-AK-LL) C -II,Not Provided
+31,Lookalike LEADS,Not Provided,Not Provided,CC-SK-LL - II,SHEIN AD (FD) (CC-SK-LL) - II,Not Provided
+32,STRATEGY-AD01,Not Provided,Not Provided,BD-AK-CC01-STRTG,STR-AD01-BD,Not Provided
+33,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - III,SHEIN AD (ALL-NK-DT-II),Not Provided
+34,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-AK-LL II,B-TECH (FIDHA) -(CC-AK-LL) II,Not Provided
+35,STRATEGY-AD01,Not Provided,Not Provided,DT-AK-CC01-STRTG,STR-AD03-DT,Not Provided
+36,JUNE-AD-1,Not Provided,Not Provided,CC-NK-DT-ALL,JWEL-DS (CC-NK-DT),Not Provided
+37,LL-V/W-P/E,Not Provided,Not Provided,LL-P/E-I,P/E-LL-AD02,Not Provided
+38,LL-V/W-P/E,Not Provided,Not Provided,LL-V/W-II,V/W-LL-II-AD01,Not Provided
+39,LL-V/W-P/E,Not Provided,Not Provided,LL-P/E-I,P/E-LL-AD03,Not Provided
+40,Jul-01,Not Provided,Not Provided,AD01-JULY- BD,CC-04-JUL-DT,Not Provided
+41,LEAD AD,Not Provided,Not Provided,Data sceince-NK-DT,Data Science padichal (NK-DT),Not Provided
+42,LEADS-CBO,Not Provided,Not Provided,Broad Aud -AD Set 5,AD1,Not Provided
+43,LL-V/W-P/E,Not Provided,Not Provided,LL-V/W-I,V/W-LL-AD02,Not Provided
+44,Lookalike LEADS - Copy,Not Provided,Not Provided,All converted lead-AK-LL,GEON Overall (All Converted lead-AK-LL) C,Not Provided
+45,AD 2,Not Provided,Not Provided,CC-BD-AK,CC-04-BD,Not Provided
+46,JUNE-AD-1,Not Provided,Not Provided,CC-AK-BD,Jwel PLMNT (CC-AK-BD),Not Provided
+47,AD1 (2),Not Provided,Not Provided,AK-DT-CC (2) - II,TESTIMONIAL-3 ( AK-DT-CC (2) -II,Not Provided
+48,COLLEGE STUDNTS (2) - LL,Not Provided,Not Provided,COLLEGE STUDENTS - LL,CONV-AD01- CLG Students LL,Not Provided
+49,AD1 (2),Not Provided,Not Provided,AK-BD-CC (2) - II,CONV-AD01 ( AK-BD-CC (2) -II,Not Provided
+50,AD1 (2),Not Provided,Not Provided,AK-DT-CC (2) - II,Jwel DS ( AK-DT-CC (2) - II,Not Provided
+51,Lookalike LEADS - Copy,Not Provided,Not Provided,All converted lead-AK-LL - II,CONV-AD-1 (All Converted lead-AK-LL) C -II,Not Provided
+52,AD1 (2),Not Provided,Not Provided,AK-BD-CC (2),Jwel PLCMT ( AK-BD-CC (2) ),Not Provided
+53,Jul-01,Not Provided,Not Provided,AD01-JULY-LL-CNVTD,CC-04-JUL-LL,Not Provided
+54,Jul-01,Not Provided,Not Provided,AD01-JULY- DT,CC-03-JUL-DT,Not Provided
+55,LEADS-CBO - II,Not Provided,Not Provided,Students Detailed Target-AD Set 5,DT-AD3-II,Not Provided
+56,COLLEGE STUDNTS (2) - LL,Not Provided,Not Provided,COLLEGE STUDENTS - LL - II,Testimonial 3 - CLG Students LL,Not Provided
+57,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike qualified,ningalude qualification +2 ano,ningalude qualification +2 ano
+58,COLLEGE STUDNTS (2),Not Provided,Not Provided,COLLEGE STUDENTS,CONV-AD01- CLG Students,Not Provided
+59,LEAD AD,Not Provided,Not Provided,Lookalike-KL - III,Jwel PLMT (Lookalike-KL-III),Not Provided
+60,AD1 (2),Not Provided,Not Provided,AK-DT-CC (2) - II,CONV-AD01( AK-DT-CC (2) -II,Not Provided
+61,COLLEGE STUDNTS (2) - LL,Not Provided,Not Provided,COLLEGE STUDENTS - LL,5 lakh salary - CLG Students LL,Not Provided
+62,AD1 (2),Not Provided,Not Provided,AK-BD-CC (2) - II,Jwel DS ( AK-BD-CC (2) - II,Not Provided
+63,COLLEGE STUDNTS (2) - LL,Not Provided,Not Provided,COLLEGE STUDENTS - LL - II,CV update - CLG Students LL,Not Provided
+64,College Students JUNE - LL,Not Provided,Not Provided,College Custom Data -LL,Jwel PLMT- CLG CSTM LL,Not Provided
+65,Lookalike LEADS,Not Provided,Not Provided,CC-SK-LL,5 Lakh Salary (CC-SK-LL),Not Provided
+66,College Students JUNE,Not Provided,Not Provided,College Custom Data,Jwel PLMT- CLG CSTM,Not Provided
+67,JUNE-AD-1,Not Provided,Not Provided,CC-NK-BD,Jwel PLMT (CC-NK-BD),Not Provided
+68,College Students JUNE,Not Provided,Not Provided,College Custom Data - II L(2),2 hour - CLG CSTM,Not Provided
+69,LEAD AD,Not Provided,Not Provided,Lookalike-KL - III,Supply MM (Lookalike-KL-III),Not Provided
+70,COLLEGE STUDNTS (2) - LL,Not Provided,Not Provided,COLLEGE STUDENTS - LL - II,2 hour - CLG Students LL,Not Provided
+71,AD1 (2),Not Provided,Not Provided,AK-DT-CC (2),Jwel PLCMT ( AK-DT-CC (2) ),Not Provided
+72,COLLEGE STUDNTS (2),Not Provided,Not Provided,COLLEGE STUDENTS,5 lakh salary - CLG Students,Not Provided
+73,JUNE-AD-1,Not Provided,Not Provided,CC-AK-DT-ALL,Jwel PLCMT (CC-AK-DT-ALL),Not Provided
+74,COLLEGE STUDNTS (2) - LL,Not Provided,Not Provided,COLLEGE STUDENTS - LL - II,Supply MM - CLG Students LL,Not Provided
+75,LEADS-CBO,Not Provided,Not Provided,Broad Aud,AD6,Not Provided
+76,LEAD AD,Not Provided,Not Provided,Lookalike-KL - III,CV update (Lookalike-KL-III),Not Provided
+77,Lookalike LEADS - Copy,Not Provided,Not Provided,All converted lead-AK-LL - II,Jwel PLMT (All Converted lead-AK-LL) C -II,Not Provided
+78,LEADS-CBO,Not Provided,Not Provided,Students Detailed Target-AD Set 5,DT-AD3,Not Provided
+79,LEAD AD,Not Provided,Not Provided,Data sceince-NK-DT,Kuranja Feesil Data Science (NK-DT),Not Provided
+80,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - II,Nth padikanam (ALL-NK-DT-II),Not Provided
+81,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,GEON Overall (CC-SK-LL) C,Not Provided
+82,LEADS-CBO,Not Provided,Not Provided,Broad Aud -AD Set 7,AD3,Not Provided
+83,JUNE-AD-1,Not Provided,Not Provided,CC-AK-LL (JUNE),Degree pora (CC-AK-LL),Not Provided
+84,JUNE-AD-1,Not Provided,Not Provided,CC-NK-DT-ALL,Jwel PLCMT (CC-NK-DT),Not Provided
+85,LEADS-CBO,Not Provided,Not Provided,Students Detailed Target-AD Set 3,DT-AD5,Not Provided
+86,New Leads Campaign 21/12/2025 - Copy,Not Provided,Not Provided,Detailed Targeting - Kochi,ningalude qualification +2 ano,Not Provided
+87,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike,ningalude qualification +2 ano,Not Provided
+88,LEADS AD,Not Provided,Not Provided,CC-AK-OPEN,Ninghalude Qualification Plus Two (open),Not Provided
+89,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike qualified,Cocoa clicks hook,Not Provided
+90,LEAD AD,Not Provided,Not Provided,Lookalike-KL - II,BTECH (FD) (Lookalike-KL),Not Provided
+91,New Leads Campaign 21/12/2025 - Copy,Not Provided,Not Provided,Detailed Targeting,ningalude qualification +2 ano,Not Provided
+92,AD1 (2),Not Provided,Not Provided,AK-BD-CC (2),5 lakh salary  ( AK-BD-CC (2),Not Provided
+93,Lookalike LEADS,Not Provided,Not Provided,CC-SK-LL - II,BTECH (FD) (CC-SK-LL) - II,Not Provided
+94,Lookalike LEADS,Not Provided,Not Provided,CC-NK-LL - III,Btech (FD) (CC-NK-LL-II),Not Provided
+95,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-AK-LL II,Jwel PLMT -(CC-AK-LL) II,Not Provided
+96,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,Lakshnaghal sambadikkam (CC-SK-LL) C,Not Provided
+97,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,Placement Motion (CC-SK-LL) C,Not Provided
+98,MAY-AD 2,Not Provided,Not Provided,AK-BD-CC 2,Degree urapichavar aano AK-BD-CC 2,Not Provided
+99,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike qualified,ningalude qualification +2 ano,Not Provided
+100,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,Coding padikan-jwel (CC-SK-LL) C,Not Provided
+101,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - II,Coding Padikal (ALL-NK-DT-II),Not Provided
+102,MAY-AD 1,Not Provided,Not Provided,SK-BD-CC - II,Jwel Ad 2 (SK-BD-MAY 1),Not Provided
+103,MAY-AD 1,Not Provided,Not Provided,SK-DT-CC,Degree Urapichavar (SK-DT-MAY 1),Not Provided
+104,MAY-AD 1,Not Provided,Not Provided,AK-DT-CC,GEON Overall (AK-DT-MAY 1),Not Provided
+105,MAY-AD 1,Not Provided,Not Provided,AK-BD-CC - II,Jwel Ad 2 (NK-BD-MAY 1),Not Provided
+106,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-AK-LL II,Jwel Ad 2 (CC-AK-LL) C,Not Provided
+107,Lookalike II,Not Provided,Not Provided,Website Lookalike-NK-CC,CC-5-WEB- LL NK,Not Provided
+108,MAY-AD 1,Not Provided,Not Provided,NK-DT-CC,nth padikanam (NK-DT-MAY 1),Not Provided
+109,MAY-AD 2,Not Provided,Not Provided,NK-BD-CC 2,5 Lakh salary NK-BD-CC 2,Not Provided
+110,MAY-AD 1,Not Provided,Not Provided,SK-BD-CC,Degree Urapichavar (SK-BD-MAY 1),Not Provided
+111,MAY-AD 1,Not Provided,Not Provided,AK-DT-CC,nth padikanam (AK-DT-MAY 1),Not Provided
+112,MAY-AD 1,Not Provided,Not Provided,AK-BD-CC,Degree Urapichavar (AK-BD-MAY 1),Not Provided
+113,MAY-AD 1,Not Provided,Not Provided,NK-DT-CC,Coding tough aano (NK-DT-MAY 1),Not Provided
+114,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL,Degree Urapichavar (CC-SK-LL) C,Not Provided
+115,LEAD AD,Not Provided,Not Provided,Lookalike-KL - II,Placement motion (Lookalike-KL),Not Provided
+116,MAY-AD 2,Not Provided,Not Provided,FORM AUD-LL-AK,Degree Urapichavar (MAY-AD2-FORM LL),Not Provided
+117,Lookalike II,Not Provided,Not Provided,Website Lookalike-AK-CC,CC-2-WEB- LL,Not Provided
+118,Lookalike II,Not Provided,Not Provided,Website Lookalike-SK-CC,CC-1-WEB- LL,Not Provided
+119,LEADS-CBO,Not Provided,Not Provided,Students Detailed Target-AD Set 3,DT-AD3,Not Provided
+120,Lookalike II,Not Provided,Not Provided,Website Lookalike-NK-CC,CC-2-WEB- LL,Not Provided
+121,MAY-AD 1,Not Provided,Not Provided,NK-DT-CC,Degree Urapichavar (NK-DT-MAY 1),Not Provided
+122,Lookalike LEADS,Not Provided,Not Provided,CC-SK-LL,Degree Urapichavar (CC-SK-LL),Not Provided
+123,LEADS-CBO,Not Provided,Not Provided,Converted Data-AD Set 1,C-AD1,Not Provided
+124,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - II,Varshanghal kalayenda (ALL-NK-DT-II),Not Provided
+125,LEADS-CBO,Not Provided,Not Provided,Students Detailed Target-AD Set 1,DT-AD1,Not Provided
+126,MAY-AD 1,Not Provided,Not Provided,AK-BD-CC,Coding tough aano(AK-BD-MAY 1),Not Provided
+127,Degree students common course,Not Provided,Not Provided,All Kerala Targeting,Professional aakano,Not Provided
+128,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,Coding tough aano (CC-SK-LL) C,Not Provided
+129,LEAD AD,Not Provided,Not Provided,Lookalike-KL - II,Joli aayille (Lookalike-KL),Not Provided
+130,MAY-AD 1,Not Provided,Not Provided,AK-BD-CC,Varshanghal kalayenda (AK-BD-MAY 1),Not Provided
+131,LEAD AD,Not Provided,Not Provided,ALL-NK-DT - II,Joli Aayille (ALL-NK-DT-II),Not Provided
+132,MAY-AD 1,Not Provided,Not Provided,AK-DT-CC,Coding padikan-jwel (AK-DT-MAY 1) - Copy,Not Provided
+133,LEAD AD - Copy,Not Provided,Not Provided,ALL-NK-DT - C II,industrykk A+ venda (ALL-NK-DT-C II),Not Provided
+134,LEADS-CBO,Not Provided,Not Provided,Students Detailed Target-AD Set 3,DT-AD1,Not Provided
+135,LEAD AD - Copy,Not Provided,Not Provided,ALL-NK-DT - C II,CV 1 (ALL-NK-DT-C II),Not Provided
+136,LEAD AD,Not Provided,Not Provided,Tech-NK-DT,Future Blur Aano (NK-DT),Not Provided
+137,Lookalike LEADS - Copy,Not Provided,Not Provided,All converted lead-AK-LL,Degree Urapichavar (All Converted lead-AK-LL) C,Not Provided
+138,MAY-AD 1,Not Provided,Not Provided,AK-DT-CC,Degree Urapichavar (AK-DT-MAY 1),Not Provided
+139,MAY-AD 1,Not Provided,Not Provided,NK-BD-CC,Degree Urapichavar (NK-BD-MAY 1),Not Provided
+140,LEAD AD,Not Provided,Not Provided,Lookalike-KL,Nth padikanam (Lookalike-KL),Not Provided
+141,LEAD AD,Not Provided,Not Provided,Tech-NK-DT - II,Nth padikanam (Tech-NK-DT-II),Not Provided
+142,New Leads Campaign 21/12/2025 - Copy,Not Provided,Not Provided,Detailed Targeting - Kochi,ningalude qualification +2 ano,ningalude qualification +2 ano
+143,New Leads Campaign 21/12/2025 - Copy,Not Provided,Not Provided,Detailed Targeting,ningalude qualification +2 ano,ningalude qualification +2 ano
+144,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,10 masam indako (CC-SK-LL) C -,Not Provided
+145,New Leads Campaign 6/2/2026,Not Provided,Not Provided,DT IT interest,pocket kali avilla hook,pocket kali avilla hook
+146,MAY-AD 1,Not Provided,Not Provided,NK-BD-CC,10 masam indaako (NK-BD-MAY 1),Not Provided
+147,New Leads Campaign 21/12/2025,Not Provided,Not Provided,LL-AK-CC,Ninghalude Qualification +2 aano LL-AK-CC,Not Provided
+148,MAY-AD 1,Not Provided,Not Provided,AK-BD-CC,10 masam indaako (AK-BD-MAY 1),Not Provided
+149,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike qualified - (edit),Cocoa clicks hook (edit),Cocoa clicks hook (edit)
+150,New Leads Campaign 21/12/2025 - Copy,Not Provided,Not Provided,Lookalike Insta audience,degree or supply - Copy,degree or supply - Copy
+151,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike,ningalude qualification +2 ano,ningalude qualification +2 ano
+152,New Leads Campaign 6/2/2026,Not Provided,Not Provided,DT-AK-IT interest,ningalude qualification +2 ano (DT-IT interest -AK),Not Provided
+153,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike qualified,Cocoa clicks hook,Cocoa clicks hook
+154,Lookalike LEADS - Copy,Not Provided,Not Provided,CC-SK-LL - II,Degree Urapichavar (CC-SK-LL) C,Not Provided
+155,New Leads Campaign 21/12/2025 - Copy,Not Provided,Not Provided,Lookalike Insta audience,ningalude qualification +2 ano,ningalude qualification +2 ano
+156,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike,pocket kali avilla hook,pocket kali avilla hook
+157,New Leads Campaign 21/12/2025,Not Provided,Not Provided,Lookalike qualified - (edit),ningalude qualification +2 ano (edit),ningalude qualification +2 ano (edit)
+158,LEAD AD,Not Provided,Not Provided,Tech-NK-DT,Maasam 50000 salary (NK-DT),Not Provided
